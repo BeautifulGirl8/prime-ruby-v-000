@@ -16,13 +16,4 @@ end
 
 
 
-#def prime?(i)
 
-#Gombo.new(2...i-1)
-#while i >= 2
-#if  Gombo.each {|i|  i % Gom}
-#return false
-#else
-  #return true
-  #if i < 0
-    #return false
